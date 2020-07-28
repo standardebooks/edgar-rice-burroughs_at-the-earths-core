@@ -41,7 +41,6 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Pellucidar</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
