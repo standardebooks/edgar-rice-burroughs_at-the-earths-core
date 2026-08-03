@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core</dc:identifier>
 		<dc:date>2020-06-13T20:18:47Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Pellucidar</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">Two explorers burrow deep into the planet’s crust and emerge in a savage land inside a hollow Earth, where they have many adventures.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Two explorers burrow deep into the planet’s crust and emerge in a savage land inside a hollow Earth, where they have many adventures.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;At the Earth’s Core&lt;/i&gt;, published in 1914, is the first of a series of science fiction novels written by &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs&lt;/a&gt; set inside a hollow earth with a central “sun,” a land called Pellucidar. However unlikely this scenario, it allowed Burroughs free play to create heroic adventures in yet another alien environment in addition to his fantastic version of Mars in his &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;The story’s hero, David Innes, is recruited by an old man, Perry, to help fund his invention, a “mechanical subterranean prospector,” and then to test it out. Unfortunately once the powerful burrowing machine is set going, it cannot be steered, and the pair find themselves burrowing deeper and deeper into the Earth’s crust. To their astonishment, rather than dying from suffocation or increasing heat, they emerge inside a hollow shell inside the Earth. This world is populated by prehistoric creatures as well as primitive humans, intelligent gorillas, and supremely intelligent pterosaurs, the masters of this land. David and Perry are captured by these creatures and many adventures ensue.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/123</dc:source>
 		<dc:source>https://archive.org/details/atearthscore00burrgoog</dc:source>
